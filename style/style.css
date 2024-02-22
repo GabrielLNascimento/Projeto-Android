@@ -198,3 +198,22 @@ main img {
     max-width: 350px;
     margin: auto;
 }
+
+Div {
+    Background-color: var(--cor4);
+    Padding-bottom: 50%;
+    Position: relative;
+    margin-bottom: 20px;
+    border-radius: 10px;
+    box-shadow: 3px 3px 20px;
+   
+ }
+ 
+ div.video iframe{
+    Position: absolute;
+    top: 5%;
+    left: 5%;
+    Width: 90%;    
+    Height: 90%;   
+ 
+ }
